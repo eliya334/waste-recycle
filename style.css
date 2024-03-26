@@ -1,0 +1,114 @@
+body{
+    background-color: whitesmoke;
+}
+
+
+#about{
+    background-color: transparent;
+    border: none;
+    color: green;
+    font-family: 'Rubik', sans-serif;
+    font-size: medium;
+    position: absolute;
+right: 34%;
+top: 1.8%;
+
+
+}
+
+#news{
+    background-color: transparent;
+    border: none;
+    color: green;
+    font-family: 'Rubik', sans-serif;
+    font-size: medium;
+    position: absolute;
+    right: 24%;
+    top: 1.8%;
+
+}
+
+#contact{
+    background-color: transparent;
+    border: none;
+    font-size: medium;
+    color: green;
+    font-family: 'Rubik', sans-serif;
+    position: absolute;
+    right: 13%;
+    top: 2%;
+
+
+}
+
+#log{
+    background-color: #1b5c24;
+    border-color: #1b5c24;
+    border-radius: 20px;
+    color: #23ad35;
+    font-family: 'Rubik', sans-serif;
+    font-size: medium;
+    position: absolute;
+    right: 3%;
+    top: 1.8%;
+}
+
+#text1{
+    font-style: bold;
+    position: absolute;
+    left: 9%;
+    top: 34%;
+    font-size:  53px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#text2{
+    font-style: bold;
+    position: absolute;
+    font-size:  53px;
+    font-family: 'Ubuntu', sans-serif;
+    left: 9.1%;
+    top:40.2% ;
+}
+
+#loram{
+    position: absolute;
+    left: 9.4%;
+    top:52% ;
+    color: green;
+    font-family: 'Rubik', sans-serif;
+
+
+}
+
+#read{
+    position: absolute;
+    left: 9.5%;
+    top: 74%;
+    font-family: 'Rubik', sans-serif;
+    background-color: #1b5c24;
+    border-color: #1b5c24;
+    border-radius: 10px;
+    color: #23ad35;
+}
+
+#image{
+    position: absolute;
+    height: 100%;
+    top: 5%;
+    right: 0.2%;
+}
+#image2{
+height: 80px;
+}
+
+#lobby{
+    font-size: larger;
+    background-color: transparent;
+    border: none;
+    font-family: 'Rubik', sans-serif;
+    color: #1b5c24;
+    position: absolute;
+    top: 1%;
+    left: 1%;
+}   
